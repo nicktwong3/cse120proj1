@@ -1,0 +1,3 @@
+Group members: Nicholas Wong
+
+I worked on each section of the project in order of the task descriptions on the assignment page. To complete each task, I designed and coded the functions based on how I understood that the program should work, then I copied in the sample test files. The tests did not work on the first try, and I would have to fix any bugs in my code. Aside from adding the negative and 0 case for the waitUntil function in Alarm, I did not modify any of the testing functions.
